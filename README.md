@@ -1,13 +1,14 @@
 Project Summary:<br>
 <br>
 Objective: Develop a RESTful API for CRUD operations on student records.<br>
+<br>
 Technologies Used:<br>
 Backend Framework: Express.js for handling HTTP requests and routes.<br>
 Database: MongoDB, managed through Mongoose for data modeling and interaction.<br>
 Validation: Joi for validating incoming data against predefined schemas.<br>
 Tools: Postman for testing API endpoints and MongoDB Compass for database management.<br>
-Key Features:<br>
 <br>
+Key Features:<br>
 Schema Design: Defined a Mongoose schema for students with fields like name, age, email, and enrollment date.<br>
 Operations:<br>
 GET: Retrieve all students or a specific student by ID.<br>
@@ -17,8 +18,8 @@ PATCH: Partially update a student record by ID.<br>
 DELETE: Remove a student record by ID.<br>
 Validation: Implemented data validation using Joi to ensure data integrity.<br>
 Integration: Connected Express.js with MongoDB to store and retrieve student data persistently.<br>
-Tools and Testing:<br>
 <br>
+Tools and Testing:<br>
 Used Postman for testing API endpoints and verifying CRUD operations.<br>
 MongoDB Compass was utilized for visualizing and managing the MongoDB database.<br>
 POSTMAN'S TESTING SCREENSHOTS <br>
