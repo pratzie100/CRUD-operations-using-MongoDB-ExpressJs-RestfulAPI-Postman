@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Project Summary: RESTful API for CRUD Operations on Student Records</title>
 </head>
 <body>
 <h1>Project Summary</h1>
